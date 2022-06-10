@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: httpss3-us-east-1-accelerate.ossfiles.comLingshulian466f3c0e38dcf2c785e39851751406d5.1654869091.20291f53f4451838d9926e0a736be04bresponse-content-disposition=attachment%3B%20filename%3DPixelExperience_zippo-12.1-20220516-1509-OFFICIAL.zip%3B%20filename%2A%3Dutf-8%27%27PixelExperience_zippo-12.1-20220516-1509-OFFICIAL.zip&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=11fd753fdeea75e703ff6392f4f4e474%2F20220610%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220610T140426Z&X-Amz-SignedHeaders=host&X-Amz-Expires=1200&X-Amz-Signature=901163b68542d871fefbe09fbc84f20e73eabba05adcf8cc05a52dbd5b4042a8
   ROM_NAME: Generic
-  BUILD_TYPE: Aonly
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
